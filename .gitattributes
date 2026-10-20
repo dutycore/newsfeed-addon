@@ -1,0 +1,9 @@
+# Keep LF line endings in the repository (see .editorconfig); the CI builds on Linux.
+* text=auto eol=lf
+
+# Windows scripts need CRLF
+*.bat text eol=crlf
+
+# Binary files
+*.jar binary
+*.png binary

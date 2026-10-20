@@ -1,0 +1,151 @@
+{
+  "newsfeed": {
+    "settings": {
+      "enabled": {
+        "name": "Enabled"
+      },
+      "header": {
+        "sources": {
+          "name": "Sources"
+        },
+        "notifications": {
+          "name": "Notifications"
+        },
+        "filter": {
+          "name": "Filter"
+        },
+        "appearance": {
+          "name": "Appearance"
+        },
+        "controls": {
+          "name": "Controls"
+        }
+      },
+      "sourceMinecraft": {
+        "name": "Minecraft.net articles"
+      },
+      "sourceLabyMod": {
+        "name": "Laby Client news"
+      },
+      "sourceReddit": {
+        "name": "r/Minecraft"
+      },
+      "sourceCosmetics": {
+        "name": "New Laby Client cosmetics"
+      },
+      "showPopups": {
+        "name": "Show pop-ups"
+      },
+      "popupsMinecraft": {
+        "name": "Pop-ups for Minecraft"
+      },
+      "popupsLabyMod": {
+        "name": "Pop-ups for Laby Client"
+      },
+      "popupsReddit": {
+        "name": "Pop-ups for r/Minecraft"
+      },
+      "popupsCosmetics": {
+        "name": "Pop-ups for Cosmetics"
+      },
+      "doNotDisturbInCombat": {
+        "name": "Do not disturb in combat"
+      },
+      "sound": {
+        "name": "Sound"
+      },
+      "keywordsOnly": {
+        "name": "Keywords only"
+      },
+      "keywords": {
+        "name": "Keywords"
+      },
+      "opacity": {
+        "name": "Opacity"
+      },
+      "language": {
+        "name": "Language",
+        "entries": {
+          "followLabymod": "Follow Laby Client",
+          "danish": "Danish",
+          "english": "English",
+          "german": "German"
+        }
+      },
+      "toggleKey": {
+        "name": "Show/hide panel"
+      }
+    },
+    "source": {
+      "minecraft": "Minecraft",
+      "labymod": "Laby Client",
+      "reddit": "r/Minecraft",
+      "cosmetics": "Cosmetics"
+    },
+    "hudWidget": {
+      "news_panel": {
+        "name": "News Feed",
+        "description": "News panel with the newest posts",
+        "sample": {
+          "minecraft": "Minecraft 26.4 Snapshot 4",
+          "labymod": "Laby Client: a new name and a new look",
+          "reddit": "Showing off my underground mountain base",
+          "cosmetics": "Crow Wings"
+        }
+      },
+      "news_toast": {
+        "name": "News Feed pop-up",
+        "description": "Where pop-ups for new news appear. Drag it where you want it.",
+        "sample": "This is how a pop-up for new news looks"
+      }
+    },
+    "time": {
+      "now": "now",
+      "minutesShort": "m",
+      "hoursShort": "h",
+      "daysShort": "d"
+    },
+    "panel": {
+      "title": "News",
+      "live": "Live",
+      "filter": {
+        "all": "All"
+      },
+      "hide": "hide",
+      "newCount": "new",
+      "updatedPrefix": "Updated ",
+      "updatedSuffix": " ago",
+      "notUpdated": "Not updated yet",
+      "loading": "Loading news…",
+      "empty": "No news here right now",
+      "noKeywordMatches": "No news matches your keywords",
+      "savedTitle": "Saved",
+      "savedEmpty": "Nothing saved yet. Hover a news item and click the save icon.",
+      "markAllRead": "Mark all as read",
+      "credit": "idea by dutyc0re"
+    },
+    "toast": {
+      "more": "more"
+    },
+    "detail": {
+      "back": "Back",
+      "next": "Next",
+      "open": "Open",
+      "save": "Save",
+      "saved": "Saved",
+      "noSummary": "No description. Open it to read more.",
+      "noTextReddit": "This post has no text, it is probably an image or a video. Open it to see it.",
+      "fact": {
+        "category": "Category",
+        "creator": "Creator",
+        "limited": "Limited",
+        "plusOnly": "Plus only"
+      }
+    },
+    "state": {
+      "unseen": "New",
+      "seen": "Seen",
+      "read": "Read"
+    }
+  }
+}

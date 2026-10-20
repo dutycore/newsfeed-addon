@@ -1,0 +1,151 @@
+{
+  "newsfeed": {
+    "settings": {
+      "enabled": {
+        "name": "Aktiviert"
+      },
+      "header": {
+        "sources": {
+          "name": "Quellen"
+        },
+        "notifications": {
+          "name": "Benachrichtigungen"
+        },
+        "filter": {
+          "name": "Filter"
+        },
+        "appearance": {
+          "name": "Darstellung"
+        },
+        "controls": {
+          "name": "Steuerung"
+        }
+      },
+      "sourceMinecraft": {
+        "name": "Minecraft.net-Artikel"
+      },
+      "sourceLabyMod": {
+        "name": "Laby Client-News"
+      },
+      "sourceReddit": {
+        "name": "r/Minecraft"
+      },
+      "sourceCosmetics": {
+        "name": "Neue Laby Client-Cosmetics"
+      },
+      "showPopups": {
+        "name": "Pop-ups anzeigen"
+      },
+      "popupsMinecraft": {
+        "name": "Pop-ups für Minecraft"
+      },
+      "popupsLabyMod": {
+        "name": "Pop-ups für Laby Client"
+      },
+      "popupsReddit": {
+        "name": "Pop-ups für r/Minecraft"
+      },
+      "popupsCosmetics": {
+        "name": "Pop-ups für Cosmetics"
+      },
+      "doNotDisturbInCombat": {
+        "name": "Im Kampf nicht stören"
+      },
+      "sound": {
+        "name": "Ton"
+      },
+      "keywordsOnly": {
+        "name": "Nur Schlüsselwörter"
+      },
+      "keywords": {
+        "name": "Schlüsselwörter"
+      },
+      "opacity": {
+        "name": "Deckkraft"
+      },
+      "language": {
+        "name": "Sprache",
+        "entries": {
+          "followLabymod": "Laby Client folgen",
+          "danish": "Dänisch",
+          "english": "Englisch",
+          "german": "Deutsch"
+        }
+      },
+      "toggleKey": {
+        "name": "Panel ein-/ausblenden"
+      }
+    },
+    "source": {
+      "minecraft": "Minecraft",
+      "labymod": "Laby Client",
+      "reddit": "r/Minecraft",
+      "cosmetics": "Cosmetics"
+    },
+    "hudWidget": {
+      "news_panel": {
+        "name": "News Feed",
+        "description": "News-Panel mit den neuesten Beiträgen",
+        "sample": {
+          "minecraft": "Minecraft 26.4 Snapshot 4",
+          "labymod": "Laby Client: neuer Name, neuer Look",
+          "reddit": "Meine unterirdische Bergbasis",
+          "cosmetics": "Crow Wings"
+        }
+      },
+      "news_toast": {
+        "name": "News-Pop-up",
+        "description": "Wo Pop-ups für neue News erscheinen. Zieh es dorthin, wo du es haben willst.",
+        "sample": "So sieht ein Pop-up für neue News aus"
+      }
+    },
+    "time": {
+      "now": "jetzt",
+      "minutesShort": " Min.",
+      "hoursShort": " Std.",
+      "daysShort": " T."
+    },
+    "panel": {
+      "title": "News",
+      "live": "Live",
+      "filter": {
+        "all": "Alle"
+      },
+      "hide": "ausblenden",
+      "newCount": "neue",
+      "updatedPrefix": "Aktualisiert vor ",
+      "updatedSuffix": "",
+      "notUpdated": "Noch nicht aktualisiert",
+      "loading": "Lade News…",
+      "empty": "Hier gerade keine News",
+      "noKeywordMatches": "Keine News passen zu deinen Schlüsselwörtern",
+      "savedTitle": "Gemerkt",
+      "savedEmpty": "Noch nichts gemerkt. Fahre über eine News und klicke auf das Speichern-Symbol.",
+      "markAllRead": "Alle als gelesen markieren",
+      "credit": "Idee von dutyc0re"
+    },
+    "toast": {
+      "more": "weitere"
+    },
+    "detail": {
+      "back": "Zurück",
+      "next": "Weiter",
+      "open": "Öffnen",
+      "save": "Merken",
+      "saved": "Gemerkt",
+      "noSummary": "Keine Beschreibung. Öffne sie, um mehr zu lesen.",
+      "noTextReddit": "Dieser Beitrag hat keinen Text, wahrscheinlich ein Bild oder Video. Öffne ihn, um ihn anzusehen.",
+      "fact": {
+        "category": "Kategorie",
+        "creator": "Ersteller",
+        "limited": "Limitiert",
+        "plusOnly": "Nur Plus"
+      }
+    },
+    "state": {
+      "unseen": "Neu",
+      "seen": "Gesehen",
+      "read": "Gelesen"
+    }
+  }
+}

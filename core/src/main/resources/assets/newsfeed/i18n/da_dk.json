@@ -1,0 +1,151 @@
+{
+  "newsfeed": {
+    "settings": {
+      "enabled": {
+        "name": "Aktiveret"
+      },
+      "header": {
+        "sources": {
+          "name": "Kilder"
+        },
+        "notifications": {
+          "name": "Notifikationer"
+        },
+        "filter": {
+          "name": "Filter"
+        },
+        "appearance": {
+          "name": "Udseende"
+        },
+        "controls": {
+          "name": "Styring"
+        }
+      },
+      "sourceMinecraft": {
+        "name": "Minecraft.net-artikler"
+      },
+      "sourceLabyMod": {
+        "name": "Laby Client-nyheder"
+      },
+      "sourceReddit": {
+        "name": "r/Minecraft"
+      },
+      "sourceCosmetics": {
+        "name": "Nye Laby Client-cosmetics"
+      },
+      "showPopups": {
+        "name": "Vis pop-ups"
+      },
+      "popupsMinecraft": {
+        "name": "Pop-ups for Minecraft"
+      },
+      "popupsLabyMod": {
+        "name": "Pop-ups for Laby Client"
+      },
+      "popupsReddit": {
+        "name": "Pop-ups for r/Minecraft"
+      },
+      "popupsCosmetics": {
+        "name": "Pop-ups for Cosmetics"
+      },
+      "doNotDisturbInCombat": {
+        "name": "Forstyr ikke i kamp"
+      },
+      "sound": {
+        "name": "Lyd"
+      },
+      "keywordsOnly": {
+        "name": "Kun nøgleord"
+      },
+      "keywords": {
+        "name": "Nøgleord"
+      },
+      "opacity": {
+        "name": "Gennemsigtighed"
+      },
+      "language": {
+        "name": "Sprog",
+        "entries": {
+          "followLabymod": "Følg Laby Client",
+          "danish": "Dansk",
+          "english": "Engelsk",
+          "german": "Tysk"
+        }
+      },
+      "toggleKey": {
+        "name": "Vis/skjul panel"
+      }
+    },
+    "source": {
+      "minecraft": "Minecraft",
+      "labymod": "Laby Client",
+      "reddit": "r/Minecraft",
+      "cosmetics": "Cosmetics"
+    },
+    "hudWidget": {
+      "news_panel": {
+        "name": "Nyheder",
+        "description": "Nyhedspanel med de nyeste opslag",
+        "sample": {
+          "minecraft": "Minecraft 26.4 Snapshot 4",
+          "labymod": "Laby Client: nyt navn og nyt look",
+          "reddit": "Min underjordiske bjergbase",
+          "cosmetics": "Crow Wings"
+        }
+      },
+      "news_toast": {
+        "name": "Nyheder: pop-up",
+        "description": "Hvor pop-ups for nye nyheder vises. Træk den derhen, hvor du vil have den.",
+        "sample": "Sådan ser en pop-up for en ny nyhed ud"
+      }
+    },
+    "time": {
+      "now": "nu",
+      "minutesShort": " min",
+      "hoursShort": " t",
+      "daysShort": " d"
+    },
+    "panel": {
+      "title": "Nyheder",
+      "live": "Live",
+      "filter": {
+        "all": "Alle"
+      },
+      "hide": "skjul",
+      "newCount": "nye",
+      "updatedPrefix": "Opdateret for ",
+      "updatedSuffix": " siden",
+      "notUpdated": "Ikke opdateret endnu",
+      "loading": "Henter nyheder…",
+      "empty": "Ingen nyheder her lige nu",
+      "noKeywordMatches": "Ingen nyheder matcher dine nøgleord",
+      "savedTitle": "Gemt",
+      "savedEmpty": "Intet gemt endnu. Hold musen over en nyhed, og klik på disketten.",
+      "markAllRead": "Markér alle som læst",
+      "credit": "idé af dutyc0re"
+    },
+    "toast": {
+      "more": "flere"
+    },
+    "detail": {
+      "back": "Tilbage",
+      "next": "Næste",
+      "open": "Åbn",
+      "save": "Gem",
+      "saved": "Gemt",
+      "noSummary": "Ingen beskrivelse. Åbn den for at læse mere.",
+      "noTextReddit": "Opslaget har ingen tekst, det er nok et billede eller en video. Åbn det for at se det.",
+      "fact": {
+        "category": "Kategori",
+        "creator": "Skaber",
+        "limited": "Limited",
+        "plusOnly": "Kun Plus"
+      }
+    },
+    "state": {
+      "unseen": "Ny",
+      "seen": "Set",
+      "read": "Læst"
+    }
+  }
+}
